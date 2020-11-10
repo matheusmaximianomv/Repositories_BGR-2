@@ -29,7 +29,6 @@
 * uuidv4&nbsp;&nbsp;&nbsp;![Badge uuidv4](https://img.shields.io/badge/uuidv4-v6.2.5-informational?logo=node.js)
 * Typescript&nbsp;&nbsp;&nbsp;![Badge Typescript](https://img.shields.io/badge/Typescript-v4.0.5-informational?logo=typescript)
 * TS-Jest&nbsp;&nbsp;&nbsp;![Badge ts-jest](https://img.shields.io/badge/ts--jest-v26.4.4-informational?logo=typescript)
-* Typeorm&nbsp;&nbsp;&nbsp;![Badge Typeorm](https://img.shields.io/badge/Typeorm-v0.2.28-informational?logo=typescript)
 * Jest&nbsp;&nbsp;&nbsp;![Badge jest](https://img.shields.io/badge/Jest-v26.6.3-informational?logo=jest)
 * Supertest&nbsp;&nbsp;&nbsp;![Badge Supertest](https://img.shields.io/badge/supertest-v6.0.1-informational?logo=jest)
 * ESlint&nbsp;&nbsp;&nbsp;![Badge ESlint](https://img.shields.io/badge/ESlint-v7.13.0-informational?logo=eslint)
@@ -37,9 +36,8 @@
 
 ## Executando o Projeto
 Para executar o projeto você precisa ter instalado o Node.js em sua máquina, em seguida, abra o terminal e execute os seguintes comandos:
-1. Clone o projeto: `git clone https://github.com/matheusmaximianomv/happy`
-2. Entre na pasta: `cd happy/backend`
-3. Instale as dependências:
+1. Clone o projeto: `git clone https://github.com/matheusmaximianomv/Repositories_BGR-2`
+2. Instale as dependências:
  Usando NPM `npm install`
  Usando o Yarn `yarn`, caso tenha instalado.
 4. Execute o projeto:
@@ -49,7 +47,7 @@ Para executar o projeto você precisa ter instalado o Node.js em sua máquina, e
 
 ## Contribua
 
-1. Fork it (https://github.com/matheusmaximiano/happy/fork)
+1. Fork it (https://github.com/matheusmaximiano/Repositories_BGR-2/fork)
 2. Crie uma branch de feature (git checkout -b feature/algumacoisa)
 3. Commit suas alterações (git commit -m 'Tipo: Modificação')
 4. Dê o push para a nova branch (git push origin feature/algumacoisa)
